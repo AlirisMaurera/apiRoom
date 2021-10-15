@@ -19,7 +19,7 @@ import java.util.Optional;
 
 @RestController
 @AllArgsConstructor
-//@CrossOrigin(origins = "http://localhost:8082")
+@CrossOrigin(origins = "http://localhost:4200")
 @RequestMapping("/api/v1")
 public class RoomController {
 
