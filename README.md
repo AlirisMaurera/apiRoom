@@ -9,3 +9,6 @@ Pré-requisitos:
 - Spring boot initializr
 - Java 11
 - H2 DataBase
+
+Nesta Api inclui um teste com RestAssured para verificar sua funcionalidade
+
